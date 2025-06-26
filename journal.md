@@ -13,4 +13,4 @@ created_at: "2025-06-25"
 ![image](https://github.com/user-attachments/assets/6aafeb66-c018-4ac5-91c4-9cc87b98b468)
 
 
-**Total Time Spent: 1hr**
+**Total Time Spent: 2hr**
