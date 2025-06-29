@@ -5,7 +5,7 @@ description: "This is an 1lb plastic vertical spinner antweight combat robot"
 created_at: "2025-06-25"
 ---
 
-# Total Time Spent: 9hr
+# Total Time Spent: 14hr
 
 # June 24th: I spend some time thinking about the design and decided on making a 1lb plasic antweight combat robot.
 
