@@ -28,5 +28,14 @@ created_at: "2025-06-25"
 
 **Total Time Spent: 7hr**
 
+#June 25th: I finished the design.. for now and madde some final touches
 
+Today i continued cadding the robot and when i starting thinking it was done i relized it had more then a few flaws, like it not being able to drive upside down and the uprights just being abled to get ripped out like its nothing, to counteract the no driving upside down issue i made something a little wonky, i made the bot 6wd which caused its own fair share of issues, in the future after testing i may remove the third wheel to make it normal 4wd. i also added supports under the uprights so the screws couldent just rip out of the robot. i also ended up creating the wheel armor i was talking about before. i also made the forks for ground game.
 
+![image](https://github.com/user-attachments/assets/e5b11ed0-1f54-422e-a03d-2a6ac00af3b1)
+![image](https://github.com/user-attachments/assets/fa3c92dc-a9e3-4c8a-b993-d5857d1a80ea)
+![image](https://github.com/user-attachments/assets/1a06a6f3-9c3d-4c6d-9846-95b442dc8883)
+![image](https://github.com/user-attachments/assets/696af21d-e2a6-4528-bdfc-b6864a35e944)
+![Edgehogv2](https://github.com/user-attachments/assets/6b876a9f-1e1e-4995-92bf-1b76f49c7495)
+
+**Total Time Spent: 5hr**
