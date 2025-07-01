@@ -4,10 +4,11 @@ I made the combat robot because while i have made plastic antweight robots befor
 
 Here is a picture of the 6wd
 ![460276587-6b876a9f-1e1e-4995-92bf-1b76f49c7495](https://github.com/user-attachments/assets/a78b8cde-81ee-4eb1-b205-78f7e66cc159)
-![460276564-e5b11ed0-1f54-422e-a03d-2a6ac00af3b1](https://github.com/user-attachments/assets/285dd75e-0e41-457c-b0a3-08ed1e8f4f6b)
+
 
 here is a wiring diagram
 ![image](https://github.com/user-attachments/assets/c8724b4d-e60a-4385-b345-0dfa3ba79738)
+![image](https://github.com/user-attachments/assets/adb45def-cf51-40ce-9aab-30b8872dc90b)
 
 | Part               | Quantity | Weight   | Total Weight | Cost          | Total cost    | Provider                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |--------------------|----------|----------|--------------|---------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
