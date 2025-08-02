@@ -39,3 +39,12 @@ Today i continued cadding the robot and when i starting thinking it was done i r
 ![Edgehogv2](https://github.com/user-attachments/assets/6b876a9f-1e1e-4995-92bf-1b76f49c7495)
 
 **Total Time Spent: 5hr**
+
+#July 8th: I build the robot in real life
+
+Today i build the robot in real life which involved printing all the parts for it then putting it all together and soldering it. when i had it all done i had some issues with its driving and weapon but then i relized that was because i had the wrong configureation on my remote, and once i fixed that the bot worked perfectly just in time for undercity. its a little beat up in the photo, this is because during undercity i fought lukes bot and it decimated my robot but i had a 3d pen so we were able to put it back together.
+
+![PXL_20250802_050353163](https://github.com/user-attachments/assets/bc593e03-07d5-42d5-bb7e-612e29feed47)
+
+**Time spent 5h**
+
